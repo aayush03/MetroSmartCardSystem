@@ -1,2 +1,2 @@
 # MetroSmartCardSystem
-This is a sample API for handling metro smart card system
+This is a sample API platform for handling metro smart card system
